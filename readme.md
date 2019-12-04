@@ -19,6 +19,7 @@ Remember, before you restore your phone, you <u>must absolutely</u> know your ap
 Now, the first step is identifying your model of iPhone. This is important, as depending on whether or not you have a physical home button, the methods will be different. If you are unsure about your model of iPhone, you can run the serial or IMEI number through apple's website,  [https://checkcoverage.apple.com/](https://checkcoverage.apple.com/)
 
 The IMEI number on iphone 7 and newer can be found by popping out the SIM card tray, on which one side the number is printed.
+
 ![enter image description here](https://drfone.wondershare.com/images/article/2016/10/14768821339544.jpg)
 
 For iPhones older than the iPhone 7, the serial or IMEI number is printed on the back.
