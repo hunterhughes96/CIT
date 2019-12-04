@@ -11,7 +11,7 @@ Well, you'll have to know how to put the phone into  **recovery mode**  before y
 
 The intended audience is iPhone owners, especially those that consider themselves "not tech savvy".
 
-Remember, before you restore your phone, you <u>must absolutely</u> know your apple ID and password associated with the phone, as it will prompt you for it before allowing you back into your device.
+Remember, before you restore your phone, you <u>**must absolutely know your apple ID and password associated with the phone</u>**, as it will prompt you for it before allowing you back into your device.
 
 
 ## First Step
