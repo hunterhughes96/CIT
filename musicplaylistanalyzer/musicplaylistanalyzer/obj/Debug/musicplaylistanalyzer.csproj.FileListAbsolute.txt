@@ -1,0 +1,6 @@
+c:\users\skeezy\documents\visual studio 2012\Projects\musicplaylistanalyzer\musicplaylistanalyzer\bin\Debug\musicplaylistanalyzer.exe.config
+c:\users\skeezy\documents\visual studio 2012\Projects\musicplaylistanalyzer\musicplaylistanalyzer\bin\Debug\musicplaylistanalyzer.exe
+c:\users\skeezy\documents\visual studio 2012\Projects\musicplaylistanalyzer\musicplaylistanalyzer\bin\Debug\musicplaylistanalyzer.pdb
+c:\users\skeezy\documents\visual studio 2012\Projects\musicplaylistanalyzer\musicplaylistanalyzer\obj\Debug\musicplaylistanalyzer.csprojResolveAssemblyReference.cache
+c:\users\skeezy\documents\visual studio 2012\Projects\musicplaylistanalyzer\musicplaylistanalyzer\obj\Debug\musicplaylistanalyzer.exe
+c:\users\skeezy\documents\visual studio 2012\Projects\musicplaylistanalyzer\musicplaylistanalyzer\obj\Debug\musicplaylistanalyzer.pdb
